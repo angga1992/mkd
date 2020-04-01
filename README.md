@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test-case-mkd
 
 > My scrumtrulescent Nuxt.js project
@@ -20,3 +21,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# mkd
+test fe
+>>>>>>> 86702ba9712a642e10feac06439cd1241ab40632
